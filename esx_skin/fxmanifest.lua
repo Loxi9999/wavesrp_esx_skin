@@ -1,4 +1,3 @@
-shared_script '@bob74_iql/ai_module_fg-obfuscated.lua'
 fx_version 'cerulean'
 game 'gta5'
 
